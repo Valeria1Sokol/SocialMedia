@@ -351,7 +351,7 @@
 }
 
 .socialContainer .linkBox .card .cardText {
-    font-family: 'Source Sans Pro';
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 .socialContainer .linkBox .card .header,
@@ -376,14 +376,14 @@
 
 .socialContainer .linkBox .learnBox .text {
     font-size: 0.73vw;
-    font-family: 'Source Sans Pro';
+    font-family: 'Source Sans Pro', sans-serif;
     margin: 0;
     line-height: inherit;
 }
 
 .socialContainer .linkBox .learnBox .text2 {
     font-size: 0.42vw;
-    font-family: 'Source Sans Pro';
+    font-family: 'Source Sans Pro', sans-serif;
     margin: 0;
 }
 
@@ -537,6 +537,7 @@
 .socialCard .clmRight ul li img {
     margin: 0 0.4vw 0 0;
     width: 0.8vw;
+    height: 0.5vw;
 }
 
 .socialCard .clmRight .topText {
@@ -645,10 +646,6 @@
     padding: 0.3vw 0.3vw 0;
 }
 
-.faceBox .socialCard .clmRight ul li img {
-    margin: 0 0.3vw 0 0;
-    width: 0.6vw;
-}
 
 .faceBox .socialCard .clmRight .topText {
     font-size: 0.4vw;

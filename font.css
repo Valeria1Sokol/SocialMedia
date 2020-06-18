@@ -1,18 +1,18 @@
 @font-face {
     font-family: HelveticaNeueLTPro-Bd;
-    src: url("../font/HelveticaNeueLTPro-Bd.otf") format("opentype");
+    src: url("font/HelveticaNeueLTPro-Bd.otf") format("opentype");
 }
 @font-face {
     font-family: HelveticaNeueLTPro-Roman;
-    src: url("../font/HelveticaNeueLTPro-Roman.otf") format("opentype");
+    src: url("font/HelveticaNeueLTPro-Roman.otf") format("opentype");
 }
 
 
 @font-face {
     font-family: SegoeUI;
-    src: url("../font/SegoeUI.woff") format('woff');
+    src: url("font/SegoeUI.woff") format('woff');
 }
 @font-face {
     font-family: SegoeUI-Bold;
-    src: url("../font/SegoeUI-Bold.woff") format('woff');
+    src: url("font/SegoeUI-Bold.woff") format('woff');
 }
