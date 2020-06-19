@@ -898,6 +898,7 @@
     .socialCard .clmRight ul li img {
         margin: 0 0.4vw 0 0;
         width: 2.8vw;
+        height: 1.7vw;
     }
 
     .socialCard .clmRight .topBox {
@@ -943,6 +944,7 @@
     .faceBox .socialCard .clmRight ul li img {
         margin: 0 0.5vw 0 0;
         width: 3vw;
+        height: 1.7vw;
     }
 
     .faceBox .socialCard .clmRight .expTittle,
